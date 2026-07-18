@@ -1,0 +1,7 @@
+# Never commit  real credentials
+secrets.h
+
+# Build artifacts
+.pio/
+.vscode/
+*.o
